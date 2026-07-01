@@ -46,3 +46,12 @@ All three models showed similar accuracy and recall with minimal train/test gap,
 - Incorporate additional features (e.g. BMI, computed from height/weight)
 - More extensive hyperparameter tuning across patient subgroups
 - Collect more demographically diverse data to reduce
+
+## How to Run
+
+```bash
+git clone https://github.com/An-hardworking/cardiovascular-disease-prediction.git
+cd cardiovascular-disease-prediction
+pip install -r requirements.txt
+```
+Then open `cardiovascular_disease_prediction.ipynb` in Jupyter.
