@@ -27,7 +27,7 @@ This project uses medical examination data to classify whether a patient has car
 6. **Fairness analysis** — examined class imbalance (gender, lifestyle features) and its implications for underrepresented subgroups
 
 ## Results
-All three models showed similar accuracy and recall with minimal train/test gap, indicating no overfitting. Random Forest was selected as the final model for its higher accuracy/recall and robustness to noise, despite being the least interpretable and most computationally expensive.
+All three models showed similar accuracy and recall with minimal train/test gap, indicating no overfitting. **Random Forest** was selected as the final model for its higher accuracy/recall and robustness to noise, despite being the least interpretable and most computationally expensive.
 
 ## Key Findings
 
